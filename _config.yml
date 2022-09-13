@@ -10,12 +10,6 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
-    type: posts
-  values:
-    layout: default
-    author: ''
-- scope:
     path: pages
     type: pages
   values:
