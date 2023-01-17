@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: page
+published: false
 reviews:
 - year: 2023
   text: |-
@@ -13,6 +13,7 @@ reviews:
     Review 1, *John Bold*
 
     Review 2, **Jane Italics**
+layout: page
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
