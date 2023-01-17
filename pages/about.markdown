@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: "/about/"
-published: false
 reviews:
 - year: 2023
   text: |-
