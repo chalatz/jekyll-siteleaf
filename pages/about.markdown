@@ -3,16 +3,16 @@ title: About
 permalink: "/about/"
 layout: page
 reviews:
-  - year: 2023
-    text: |-
-      Review 1, *John Doe*
+- year: 2023
+  text: |-
+    Review 1, *John Doe*
 
-      Review 2, **Jane Doe**
-  - year: 2022
-    text: |-
-      Review 1, *John Bold*
+    Review 2, **Jane Doe**
+- year: 2022
+  text: |-
+    Review 1, *John Bold*
 
-      Review 2, **Jane Italics**
+    Review 2, **Jane Italics**
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
