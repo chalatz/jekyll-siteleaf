@@ -15,11 +15,11 @@ layout: default
   {%- if page.reviews -%}
     <h2>Reviews</h2>
 
-    {%- for item in page.reviews -%}
+    {%- for item in site.reviews reversed -%}
       <div>
         <h3>{{- item.year -}}</h3>
 
-        {{ item.text | markdownify }}
+        {{ item.content | markdownify }}
       </div>
     {%- endfor -%}
   {%- endif -%}
